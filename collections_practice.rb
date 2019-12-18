@@ -38,6 +38,8 @@ def find_a(array)
 end
 
 def sum_array(array)
+  sum = 0 
+  
 
 def add_s(array)
   array.collect do |word|
